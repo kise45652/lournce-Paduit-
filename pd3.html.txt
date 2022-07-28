@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ body {
+        background-image: url('dds.JPG');
+        background-attachment: fixed;
+        background-position: 100% 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+          }
+
+h1{
+        color: white;
+        border-style: solid;
+        border-color: #FF4500;
+        background-color: #FF4500;
+        }
+
+p {
+	border-style: solid;
+	border-color: orange;
+	padding: 15px;
+	background-color:#FF4500;
+	color: white;
+}
+
+img {
+        border-radius: 50%;
+            }
+
+</style>
+</head>
+<body>
+<center>
+
+<h1 style="color:white; font-family: Arial, Helvetica, sans-serif ">FAVORITE</h1>
+<hr> 
+
+
+<img src="pd.PNG" alt="Paris" width="400" height="400" border-style: solid;border-color:#0B4619; "></a>
+
+<h2 style="color:white;"> FAVORITE </h2>
+  <p>COLOR GRAY <br>
+  FOOD VEDGEIS <br>
+  COOKING <br>
+  PLACE PROVINCE <br>
+  ACTIVITY PLAYING <br>
+  PET: CAT <br>
+  LOVE STUDYING<br>
+  SUBJECT: ENGLISH<br>
+  LOVE TRAVELING</p>
+
+<br>
+<br>
+<br>
+
+<a href="file:///C:/Users/admin/Downloads/jasson%20act%204/jason2.html"><input type="submit" value="Back" style="height:30px; width:140px">
+
+ 
+</body>
+</html>
+
+
+
+
